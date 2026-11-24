@@ -60,7 +60,7 @@ window.PORTFOLIO = {
 
   /* ícones: 'd:pasta/arquivo' = devicon (colorido) · 's:nome:#cor' = simple-icons · sem ícone = tag de texto */
   stack: [
-    { title: 'Linguagens', desc: 'A base do dia a dia — do script de automação à interface.',
+    { title: 'Linguagens', desc: 'A base do dia a dia do script de automação à interface.',
       items: [['Python', 'd:python/python-original'], ['JavaScript', 'd:javascript/javascript-original'], ['HTML5', 'd:html5/html5-original'], ['CSS3', 'd:css3/css3-original'], ['Java', 'd:java/java-original'], ['SQL', 'd:azuresqldatabase/azuresqldatabase-original']] },
     { title: 'Backend', desc: 'Regras de negócio, APIs e a arquitetura que sustenta cada sistema.',
       items: [['Flask', 'd:flask/flask-original'], ['Node.js', 'd:nodejs/nodejs-original'], ['APIs REST'], ['Integração de APIs'], ['Webhooks'], ['Sistemas web'], ['Arquitetura de aplicações']] },
