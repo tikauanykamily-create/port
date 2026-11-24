@@ -309,7 +309,7 @@
   // nav state + active section
   const nav = $('.nav');
   const navLinks = $$('.nav-links a');
-  const secIds = ['sobre', 'experiencia', 'stack', 'projetos', 'formacao', 'contato'];
+  const secIds = ['sobre', 'formacao', 'experiencia', 'stack', 'projetos', 'contato'];
   let lastY = 0;
   function onScroll(y) {
     nav.classList.toggle('is-scrolled', y > 40);
