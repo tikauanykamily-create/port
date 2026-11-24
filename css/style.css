@@ -290,6 +290,9 @@ html.js .stroke-title .ch::after{opacity:var(--f,0)}
 
 /* Ominy no Instagram */
 .ig{margin-top:18vh}
+.bh{margin-top:18vh}
+.bh-card{max-width:404px;margin:28px auto 0;border-radius:20px;overflow:hidden;border:1px solid rgba(255,255,255,.12);box-shadow:0 30px 80px rgba(0,0,0,.45);background:#000}
+.bh-card iframe{display:block;width:100%;aspect-ratio:404/316;height:auto;border:0}
 .ig-card{max-width:940px;margin:28px auto 0;border-radius:28px;background:#000;border:1px solid rgba(255,255,255,.12);padding:clamp(18px,3vw,36px);box-shadow:0 30px 80px rgba(0,0,0,.45)}
 .ig-top{display:flex;align-items:center;gap:clamp(16px,4vw,48px);padding-bottom:clamp(18px,3vw,30px);border-bottom:1px solid rgba(255,255,255,.12)}
 .ig-avatar{flex:none;width:clamp(76px,11vw,128px);aspect-ratio:1;border-radius:50%;padding:3px;background:conic-gradient(from 200deg,#feda75,#fa7e1e,#d62976,#962fbf,#4f5bd5,#feda75)}

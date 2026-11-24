@@ -9,7 +9,7 @@ window.PORTFOLIO = {
     location: 'Várzea Grande – MT, Brasil',
     github: 'https://github.com/kauanykamily18-dev',
     linkedin: '',            // ex.: 'https://www.linkedin.com/in/seu-perfil'
-    behance: 'https://www.behance.net/kauanykamily',
+    behance: 'https://www.behance.net/gallery/236707393',
     email: 'kauanykamily18@gmail.com',
     cv: 'assets/curriculo.pdf', // o botão só aparece se este arquivo existir
   },
