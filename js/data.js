@@ -42,6 +42,13 @@ window.PORTFOLIO = {
       link: { label: 'daevg.com.br/transparencia', href: 'https://daevg.com.br/transparencia' },
     },
     {
+      company: 'Ixpia Marketing Propaganda',
+      role: 'Social Media · Desenvolvedora Web',
+      tag: 'PJ · Agência de marketing',
+      summary: 'Atuação como prestadora de serviços PJ, desenvolvendo atividades de comunicação digital e soluções web para clientes da agência.',
+      points: ['Planejamento, criação e desenvolvimento de conteúdos para redes sociais', 'Criação de artes e materiais visuais para comunicação digital', 'Gestão e apoio à presença digital de marcas', 'Desenvolvimento de mini sites de bio para Instagram, reunindo links, informações comerciais e canais de contato em páginas personalizadas', 'Estruturação de interfaces digitais com foco em identidade visual, usabilidade e experiência do usuário'],
+    },
+    {
       company: 'Irmãos Domingos LTDA',
       role: 'Jovem Aprendiz — TI',
       tag: 'Suporte e sistemas corporativos',
